@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## ✨ Hi, I am Lyrra!
+## ✨ Hi, I am Señorita!
 - I’m currently working on a large and special application.
 - I started software 4 years ago when I was a student.
 - By improving myself over time, I proved to myself that I can succeed.
@@ -15,7 +15,7 @@
 ## Discord Profile
 ![](https://komarev.com/ghpvc/?username=Lyrraisbest)
 <div align="center" dir="auto">
-    <a target href="https://discord.com/users/816704064401703002" title="Discord Profile" rel="nofollow"><img src="https://lanyard.cnrad.dev/api/816704064401703002" data-canonical-src="https://lanyard.cnrad.dev/api/816704064401703002" style="max-width: 100%;"></a>
+    <a target href="https://discord.com/users/954253577197588540" title="Discord Profile" rel="nofollow"><img src="https://lanyard.cnrad.dev/api/954253577197588540" data-canonical-src="https://lanyard.cnrad.dev/api/954253577197588540" style="max-width: 100%;"></a>
 </div>
 
 ## What we are doing now?
@@ -55,8 +55,8 @@ I also work as a FreeLancer.
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/lyrraxd
-[discord]: https://discord.com/users/813158989742735411/
+[instagram]: https://www.instagram.com/senoritadiyorlar
+[discord]: https://discord.com/users/954253577197588540/
 [gmail]: mailto:contact@lyrraisbest.com
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
