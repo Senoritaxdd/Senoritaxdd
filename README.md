@@ -15,7 +15,7 @@
 ## Discord Profile
 ![](https://komarev.com/ghpvc/?username=Lyrraisbest)
 <div align="center" dir="auto">
-    <a target href="https://discord.com/users/954253577197588540" title="Discord Profile" rel="nofollow"><img src="https://lanyard.cnrad.dev/api/954253577197588540" data-canonical-src="https://lanyard.cnrad.dev/api/954253577197588540" style="max-width: 100%;"></a>
+    <a target href="https://discord.com/users/974095294897717258" title="Discord Profile" rel="nofollow"><img src="https://lanyard.cnrad.dev/api/974095294897717258" data-canonical-src="https://lanyard.cnrad.dev/api/974095294897717258" style="max-width: 100%;"></a>
 </div>
 
 ## What we are doing now?
